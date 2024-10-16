@@ -1,0 +1,14 @@
+p {
+    color: red;
+    width: 300px;
+}
+h1 {
+    background:#008080;
+    padding:10px;
+}
+.picture {
+     border:10px solid;
+     .picture: linear-gradient(to right,yellow,green) 1;
+     height:100px
+}
+
