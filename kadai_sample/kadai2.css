@@ -1,7 +1,7 @@
 h1{
    background:#eeee10;
 }
-.keyword {
+span .keyword {
     color: #F44336;
     width: 200px;
 }
