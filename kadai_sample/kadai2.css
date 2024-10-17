@@ -1,11 +1,11 @@
 h1{
    background:#eeee10;
 }
-p {
+body p {
     color: red;
     width: 300px;
 }
-.picture {
+body p img {
      border: 10px solid #519538;
 }
 
