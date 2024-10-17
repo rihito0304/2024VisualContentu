@@ -3,7 +3,7 @@ h1{
    font-family: fantasy;
    font-size: 500px;
 }
-body p {
+p {
     color: pink;
     width: 200px;
 }
