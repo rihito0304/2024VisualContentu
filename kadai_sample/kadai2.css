@@ -1,8 +1,10 @@
 h1{
    background:#eeee10;
+   font-size: 300px;
+   font-family: fantasy;
 }
 p {
-    color: red;
+    color: blue;
     width: 200px;
 }
 body p img {
