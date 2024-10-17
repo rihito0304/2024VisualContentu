@@ -1,13 +1,11 @@
 body h1{
    background:#eeee10;
+   font-family: fantasy;
+   font-size: 100px;
 }
 body p {
     color: blue;
     width: 200px;
-}
-body .keyword {
-    color:　#ff8c00;
-    width: 500px;
 }
 body p img {
      border: 10px solid #519538;
