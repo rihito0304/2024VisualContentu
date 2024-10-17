@@ -3,7 +3,11 @@ h1{
 }
 p {
     color: blue;
-    width: 250px;
+    width: 200px;
+}
+.keyword{
+    color: red;
+    width: 500px;
 }
 body p img {
      border: 10px solid #519538;
