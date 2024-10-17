@@ -1,9 +1,9 @@
 h1{
    background:#eeee10;
 }
-span .keyword {
-    color: #F44336;
-    width: 200px;
+p {
+    color: blue;
+    width: 250px;
 }
 body p img {
      border: 10px solid #519538;
